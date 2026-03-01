@@ -18,13 +18,6 @@ Precision (Survival = 1): 0.78
 Recall (Survival = 1): 0.72
 F1-Score (Survival = 1): 0.75
 
-Class-wise Metrics:
-
-Class	              Precision Recall	F1-Score	Support
-0 (Did Not Survive) 0.83	    0.87	  0.85	     110
-1 (Survived)	      0.78	    0.72	  0.75	     69
-
-The model performs slightly stronger in identifying non-survivors, reflecting class distribution imbalance.
 
 **Techniques Applied**
 
