@@ -3,9 +3,11 @@
 This project builds a classification model to predict passenger survival using a Random Forest classifier with hyperparameter tuning via GridSearchCV.
 
 **Objective**
+
 To develop and optimize a machine learning model capable of predicting whether a passenger survived the Titanic disaster based on structured passenger features.
 
 **Model Used**
+
 Random Forest Classifier
 
 **Model Performance**
@@ -34,6 +36,7 @@ Confusion matrix evaluation
 Precision, Recall, F1-score analysis
 
 **Tools & Libraries**
+
 Python
 Pandas
 NumPy
