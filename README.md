@@ -31,8 +31,11 @@ Precision, Recall, F1-score analysis
 **Tools & Libraries**
 
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
 
 Seaborn
